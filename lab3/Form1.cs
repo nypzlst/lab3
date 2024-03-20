@@ -23,6 +23,9 @@ namespace lab3
             if (float.TryParse(text, out float result))
             {
                 return result;
+
+
+
             }
             else
             {
